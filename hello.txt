@@ -1,8 +1,2 @@
-This is a fancy first line
-line 2
-line 3
-line 4
-line 5
-line 6
-line 7
-last line
+line1
+line1bis
